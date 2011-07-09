@@ -1,0 +1,3 @@
+require 'hammertime'
+
+raise 'Doh!'

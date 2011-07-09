@@ -1,0 +1,14 @@
+--- 
+:timestamp: 2011-07-09 14:28:16.858580 +09:30
+:message: Doh!
+:backtrace: 
+- crash_log.rb:17:in `<main>'
+:gems: {}
+
+--- 
+:timestamp: 2011-07-09 14:30:22.202086 +09:30
+:message: Doh!
+:backtrace: 
+- crash_log.rb:19:in `<main>'
+:gems: {}
+

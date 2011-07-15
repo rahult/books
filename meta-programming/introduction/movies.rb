@@ -1,4 +1,4 @@
-$: << File.expand_path(File.dirname(__FILE__) + "/../introduction")
+require './orm'
 
 class Movie < Entity
   def initialize(ident)
